@@ -1,9 +1,11 @@
 import { Header } from '../../components/Header/index'
+import { Summary } from '../../components/Summary'
 
 export function Transactions() {
   return (
-    <h1>
+    <div>
       <Header />
-    </h1>
+      <Summary />
+    </div>
   )
 }
