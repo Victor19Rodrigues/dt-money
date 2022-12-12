@@ -15,6 +15,22 @@
       "category": "Alimentação",
       "price": 60,
       "createdAt": "2022-12-08T12:24:04.046Z"
+    },
+    {
+      "category": "Sistemas",
+      "description": "Webhook",
+      "price": 4587,
+      "type": "income",
+      "createdAt": "2022-12-12T22:43:03.436Z",
+      "id": "K5MjJKc"
+    },
+    {
+      "category": "Alimentação",
+      "description": "Sorvete",
+      "price": 15,
+      "type": "outcome",
+      "createdAt": "2022-12-12T23:11:06.158Z",
+      "id": "7v8LPJB"
     }
   ]
 }
