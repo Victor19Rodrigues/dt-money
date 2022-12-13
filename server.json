@@ -39,6 +39,22 @@
       "type": "outcome",
       "createdAt": "2022-12-13T01:32:43.108Z",
       "id": "TbBWW-5"
+    },
+    {
+      "category": "Ganhos",
+      "description": "Mega Sena",
+      "price": 785454,
+      "type": "income",
+      "createdAt": "2022-12-13T01:39:25.560Z",
+      "id": "H7Ml17x"
+    },
+    {
+      "category": "Alimentação",
+      "description": "Marmita",
+      "price": 112,
+      "type": "income",
+      "createdAt": "2022-12-13T01:41:30.669Z",
+      "id": "RPq3IDP"
     }
   ]
 }
